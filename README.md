@@ -1,3 +1,6 @@
-# go-algo
+# Algorithms in Go
 
-Implement algorithms using golang
+- find factorial
+- generate fibonacci
+- check if a number is powe of two or not
+- check if a number is prime
